@@ -1,0 +1,2 @@
+# Noising-and-Denoising-Images
+ Corrupting the images by randomly choosing some pixels and replacing the pixel values with random/junk values. Displaying and saving the noisy images. Reading in the saved noisy images. Identifying the noisy pixels by comparing them with neighbouring pixels.  Replacing the "noisy pixels" identified  with mean and median of the neighbouring pixels. Consider different "neighborhoods". Display the "denoised" images
