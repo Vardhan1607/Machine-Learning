@@ -1,4 +1,4 @@
-# Machine-Learning
+# Linear,Ridge,Lasso Regression
 Consider the attached dataset about advertising and sales. The attributes denote the investments on advertising in TV, radio etc and the target variable is the total sales.
 The aim is to predict the sales from the investments on advertising.
 Data has been randomly divided into the dataset into training (75%) and testing (25%) subsets
