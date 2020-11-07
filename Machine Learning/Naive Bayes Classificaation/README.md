@@ -1,5 +1,5 @@
 # Text Analysis with Naive Bayes
-1) Sentence classification: 
+1) Sentence classification: <br/>
 Consider the files traindata.csv and testdata.csv. In these files, each row contains a sentence which belongs to one of 4 categories (science, sports, business, covid crisis). Learn a Naive Bayes classifier to predict the category of each sentence, based on the words in it (neglecting stop words). Use the training set to estimate the prior distribution over the class labels and class-conditional probabilities, i.e. the probability of each word occurring in a sentence having a particular class label. For each test sentence, your output should be the posterior distribution over the labels.
 <br/>
 i) Constructing the vocabulary without stop-words
